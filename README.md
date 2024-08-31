@@ -11,7 +11,7 @@ The core focus of this notebook is to demonstrate how to convert a CSV file into
 ## Prerequisites
 To run the notebook, you need to have the following software installed:
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook
 - Required Python packages (Pandas:2.1.4,  sqlalchemy:2.0.25)
 
